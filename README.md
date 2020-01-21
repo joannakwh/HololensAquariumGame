@@ -1,4 +1,4 @@
-# Insaniquarium_Final
+# Hololens Aquarium Game
 ## Joe Jung, Joanna Ho
 This is the unity project folder for the Hololens Aquarium Game, developed in Unity 2018.4.9f1 with Windows Mixed Reality Toolkit
 
