@@ -19,14 +19,26 @@ Pull project into a new directory and open with Unity 2018.4.9f1. Connect Holole
 ### References
 #### Tutorials
 Deploying a basic Unity app to the HoloLens
+
+
  https://medium.com/code3100/deploying-a-basic-unity-app-to-the-hololens-cf47e7289725 
+ 
+ 
 Error - "visual studio failed to connect to device using universal authentication"
+
+
  "Visual Studio failed deploy to HoloLens: Error DEP6957 : Failed to connect to device"
+ 
+ 
   https://stackoverflow.com/questions/38578467/visual-studio-failed-deploy-to-hololens-error-dep6957-failed-to-connect-to-de 
 https://forums.hololens.com/discussion/8382/hololens-universal10-build-json-dll-error-solve#latest 
 
 Unity Tutorial and Boids Flocking Algorithm: Flock.cs, FlockManager.cs, 
+
+
 	https://www.youtube.com/watch?v=yvGSnh-Lc7o
+	
+	
 Basic mechanism for making projectiles move forward: Arrow.cs, Shoot.cs
 	https://www.youtube.com/watch?v=ayiXNHhUhQE
 Underwater effect scripting from Unify Community: UnderWaterScript.cs
