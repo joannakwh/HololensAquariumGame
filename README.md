@@ -36,19 +36,19 @@ https://forums.hololens.com/discussion/8382/hololens-universal10-build-json-dll-
 Unity Tutorial and Boids Flocking Algorithm: Flock.cs, FlockManager.cs, 
 
 
-	https://www.youtube.com/watch?v=yvGSnh-Lc7o
+https://www.youtube.com/watch?v=yvGSnh-Lc7o
 	
 	
 Basic mechanism for making projectiles move forward: Arrow.cs, Shoot.cs
 
 
-	https://www.youtube.com/watch?v=ayiXNHhUhQE
+https://www.youtube.com/watch?v=ayiXNHhUhQE
 	
 	
 Underwater effect scripting from Unify Community: UnderWaterScript.cs
 
 
-	http://wiki.unity3d.com/index.php/Underwater_Script
+http://wiki.unity3d.com/index.php/Underwater_Script
 	
 	
 Locking GameObjects to camera
@@ -101,7 +101,7 @@ https://www.youtube.com/watch?v=UgJE3TgT3o8
 Discus
 
 
-	https://sketchfab.com/3d-models/discus-animated-ab3afd24b72f4ad3a2bfc9d6b8e31042
+https://sketchfab.com/3d-models/discus-animated-ab3afd24b72f4ad3a2bfc9d6b8e31042
 	
 	
 Guppie	
@@ -113,31 +113,31 @@ https://sketchfab.com/3d-models/guppie-animated-53abad43280a4b7ab26bd0e6b8dea62f
 Clownfish
 
 
-	https://sketchfab.com/3d-models/lownfish-68e9afcb79534dc7a2316d780994e619
+https://sketchfab.com/3d-models/lownfish-68e9afcb79534dc7a2316d780994e619
 	
 	
 Squid
 
 
-	https://sketchfab.com/3d-models/firefly-squid-0289c6a70ed447f099bd892e18608306
+https://sketchfab.com/3d-models/firefly-squid-0289c6a70ed447f099bd892e18608306
 	
 	
 Angelfish
 
 
-	https://sketchfab.com/3d-models/regal-angelfish-9d803acdd8dd4e4ca00d3f2dfff1e318
+https://sketchfab.com/3d-models/regal-angelfish-9d803acdd8dd4e4ca00d3f2dfff1e318
 	
 	
 Sea Turtle
 
 
-	https://sketchfab.com/3d-models/sea-turtle-animated-f739be3288b2402dbda2d90b3cf299ac
+https://sketchfab.com/3d-models/sea-turtle-animated-f739be3288b2402dbda2d90b3cf299ac
 	
 	
 Sea Monster
 
 
-	https://sketchfab.com/3d-models/sea-creature-4972672058284befb562d52cd7f51ea8 
+https://sketchfab.com/3d-models/sea-creature-4972672058284befb562d52cd7f51ea8 
 	
 	
   
